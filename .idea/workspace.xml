@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43ec42ad-4fa3-4734-8e51-2e69ed3169ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/APIPereval/pereval_app/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/pereval.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pereval.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/APIPereval/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIPereval/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/APIPereval/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIPereval/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/APIPereval/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIPereval/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/APIPereval/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIPereval/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/APIPereval/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIPereval/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/APIPereval/yasg.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIPereval/yasg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/pereval_app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pereval_app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/pereval_app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/pereval_app/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/pereval_app/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/pereval_app/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/pereval_app/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/pereval_app/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/pereval_app/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pereval_app/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/pereval_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/pereval_app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/pereval_app/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/pereval_app/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/pereval_app/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/pereval_app/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIPereval/pereval_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pereval_app/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +59,12 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Home\PythonProjects\pereval" />
+      <recent name="C:\Users\Home\PythonProjects\pereval\APIPereval" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
