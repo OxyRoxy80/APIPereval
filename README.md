@@ -128,6 +128,6 @@ GET /pereval/?user_id__email=<email>
 
 
 
-### 3. Запуск сервера проекта
+### Запуск сервера проекта
 python manage.py runserver
 ```
